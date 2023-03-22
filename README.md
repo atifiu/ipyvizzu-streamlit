@@ -9,3 +9,5 @@ https://hub.gke2.mybinder.org/user/atifiu-ipyvizzu-streamlit-9mwjibyx/doc/tree/I
 
 ![Demo application executed in jupyter notebook](https://user-images.githubusercontent.com/48252551/225732687-e32f6314-3ee2-4e63-804f-481b4861f4f3.gif)
 
+![Alt text](demo_app/ipyvizzu_demo_yearly_data.gif)
+
