@@ -11,3 +11,5 @@ https://hub.gke2.mybinder.org/user/atifiu-ipyvizzu-streamlit-9mwjibyx/doc/tree/I
 
 ![Alt text](demo_app/ipyvizzu_demo_yearly_data.gif)
 
+### Horizontal Bar plot showing Passenger Count of top 10 Airlines every year.
+ ![Alt text](demo_app/ipyvizzu_demo_yearly_data_aggregate.gif)
